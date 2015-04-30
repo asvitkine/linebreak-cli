@@ -1,0 +1,9 @@
+Command-line utility to convert file line breaks.
+
+Based on the graphical [LineBreak](http://code.google.com/p/linebreak/) application by Josh Aas.
+
+The code is portable and should compile on any system with a C compiler.
+
+```
+usage: linebreak [ detect | dos | mac | unix ] <file> [<file2> <file3> ...]
+```
