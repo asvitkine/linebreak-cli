@@ -20,6 +20,7 @@
 */
 
 #include <stdio.h>
+#include <string.h>
 
 enum {
   jaUnixLBFormat = 0,
